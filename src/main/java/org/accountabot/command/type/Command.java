@@ -1,9 +1,8 @@
-package command.type;
+package org.accountabot.command.type;
 
-import command.args.Argument;
+import org.accountabot.command.args.Argument;
 import lombok.AllArgsConstructor;
 import lombok.Getter;
-import lombok.RequiredArgsConstructor;
 import net.dv8tion.jda.api.entities.Message;
 
 import java.util.ArrayList;

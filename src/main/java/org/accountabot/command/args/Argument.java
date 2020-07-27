@@ -1,7 +1,7 @@
-package command.args;
+package org.accountabot.command.args;
 
-import command.type.Command;
-import command.type.CommandError;
+import org.accountabot.command.type.Command;
+import org.accountabot.command.type.CommandError;
 import lombok.Getter;
 import lombok.RequiredArgsConstructor;
 

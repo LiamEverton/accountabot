@@ -1,4 +1,4 @@
-package command.type;
+package org.accountabot.command.type;
 
 import lombok.Getter;
 import lombok.RequiredArgsConstructor;
